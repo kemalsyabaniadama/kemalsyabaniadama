@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kemal Syabani Adama</h1>
-<h3 align="center">programmer indo yang malas ngoding</h3>
+<h3 align="center">calon programmer yang malas ngoding</h3>
 
 - 🌱 I’m currently learning **Tailwind, JS, Godot**
 
