@@ -1,14 +1,21 @@
 <h1 align="center">Hi 👋, I'm Kemal Syabani Adama</h1>
-<h3 align="center">calon programmer yang malas ngoding</h3>
+<h3 align="center">a lazy pre-programmer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kemalsyabaniadama&label=Profile%20views&color=0e75b6&style=flat" alt="kemalsyabaniadama" /> </p>
 
 - 🌱 I’m currently learning **Tailwind, JS, AWS**
 
+- 💬 Ask me about **basic programming**
+
 - 📫 How to reach me **kemalsyabani1610@gmail.com**
 
-- 📄 Know about my experiences [(coming soon)]((coming soon))
+- 📄 Know about my experiences [https://kemalsyabaniadama.github.io](https://kemalsyabaniadama.github.io)
+
+- ⚡ Fun fact **i am just beginner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">'
+<a href="https://stackoverflow.com/users/29394201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29394201" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=61573837997803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Kemal Syabani" height="30" width="40" /></a>
 <a href="https://instagram.com/kemalsyabaniadama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kemalsyabaniadama" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@kemalsyabaniadama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Kemal Syabani Adama" height="30" width="40" /></a>
