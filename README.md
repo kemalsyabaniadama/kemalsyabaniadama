@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kemal Syabani Adama</h1>
-<h3 align="center">a lazy pre-programmer</h3>
+<h3 align="center">a student who wants to become a reliable programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kemalsyabaniadama&label=Profile%20views&color=0e75b6&style=flat" alt="kemalsyabaniadama" /> </p>
 
